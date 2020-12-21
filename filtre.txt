@@ -1,0 +1,66 @@
+Bilgi:
+arif,özbek,antalya,0543,arfzbk@gmail.com,2000,
+Eğitim:
+kocaeli üniversitesi,bilişim sistemleri mühendisliği,lisans,2018,2022,3,
+Eğitim:
+akdeniz lisesi,sayısal,lise,2014,2018,78,
+Is Bilgisi:
+yapıkredi,istanbul,yazılımcı,2,
+Yabancı Diller:
+ingilizce,ispanyolca,almanca,
+Ehliyet:
+b,a2,
+*********************
+Bilgi:
+ali,kaya,istanbul,5321234567,akaya@gmail.com,1985,
+Eğitim:
+galatasaray lisesi,sayısal,lise,1999,2003,82,
+Eğitim:
+yıldız teknik üniversitesi,bilgisayar müh,lisans,2004,2009,80,
+Eğitim:
+yıldız teknik üniversitesi,bilgisayar müh,yüksek lisans,2010,2013,95,
+Eğitim:
+boğaziçi üniversitesi,bilgisayar müh,doktora,2013,devam ediyor,e,
+Is Bilgisi:
+burger king,istanbul,vardiya müdürü,2,
+Is Bilgisi:
+armada bilgisayar,istanbul,yazılım uzmanı,1,
+Is Bilgisi:
+comodo yazılım aş,ankara,front end developer,0.5,
+Is Bilgisi:
+destek group,istanbul-ankara,bilgisayar mühendisi,2,
+Is Bilgisi:
+otokar,kocaeli,network ve güvenlik mühendisi,1.5,
+Is Bilgisi:
+vodafone,istanbul,mediation solutions senior specialist,1.5,
+Yabancı Diller:
+ingilizce,fransızca,
+Ehliyet:
+a2,b,
+*********************
+Bilgi:
+ahmet,sarı,manisa,5071234567,asari@gmail.com,1989,
+Eğitim:
+manisa lisesi,sayısal,lise,2003,2006,70,
+Eğitim:
+yalvaç myo,bilgisayar programcılığı,önlisans,2006,2008,95,
+Eğitim:
+selçuk üniversitesi,matematik bilgisayar,lisans,2009,2012,90,
+Eğitim:
+gazi üniversitesi,bilgisayar müh,yüksek lisans,2012,2015,92,
+Is Bilgisi:
+ag software,konya,programcı,2,
+Is Bilgisi:
+randstand professionals,ankara,firmware engineer,2,
+Yabancı Diller:
+arapça,ingilizce,almanca,
+Ehliyet:
+b,
+*********************
+Bilgi:
+arif,asdfasdf,adsfasdfas,1234567890,abc@gmail.com,2000,
+Yabancı Diller:
+fasdfsafs,fasdfsafs,
+Ehliyet:
+
+*********************
